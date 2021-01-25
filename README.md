@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Lucas Büchele! 👋
 
-<!--
-**lucasbuchele/lucasbuchele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍿 Content Creator at [Youtube](https://www.youtube.com/lucas) <br>
+👾 Streamer at [Twitch](https://www.twitch.tv/lucasbuchele) <br>
+🇧🇷 Born in Florianópolis, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucasbuchele) <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://lucasbuchele.com) <br>
+🐦 [Twitter](https://twitter.com/lucasbuchele) <br>
+📸 [Instagram](https://instagram.com/lucasbuchele) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/lucasbuchele/) <br>
