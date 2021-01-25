@@ -2,8 +2,8 @@
 
 
 :small_blue_diamond: I'm 23 yo <br>
-:computer: Front-end Developer | Web Designer <br>
-🇧🇷  Born in Florianópolis, Brazil <br>
+:computer: Front-end Developer | Web Designer | Vue.js :green_heart: <br>
+:small_orange_diamond: Born in Florianópolis, Brazil <br>
 
 ### What I'm working on 👨‍💻
 
