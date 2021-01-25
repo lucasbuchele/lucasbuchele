@@ -1,8 +1,8 @@
 ### Hey, I'm Lucas Büchele! 👋
 
-🍿 Content Creator at [Youtube](https://www.youtube.com/lucas) <br>
-👾 Streamer at [Twitch](https://www.twitch.tv/lucasbuchele) <br>
-🇧🇷 Born in Florianópolis, Brazil <br>
+I'm 23 years old, student in software development focused on web development and web design.
+
+🇧🇷  Born in Florianópolis, Brazil <br>
 
 ### What I'm working on 👨‍💻
 
