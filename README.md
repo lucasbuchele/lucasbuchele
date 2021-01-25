@@ -15,4 +15,4 @@
 🚀 [Site](https://lucasbuchele.com) <br>
 🐦 [Twitter](https://twitter.com/lucasbuchele) <br>
 📸 [Instagram](https://instagram.com/lucasbuchele) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/lucasbuchele/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-buchele/) <br>
