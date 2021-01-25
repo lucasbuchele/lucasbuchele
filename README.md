@@ -6,7 +6,8 @@ I'm 23 years old, student in software development focused on web development and
 
 ### What I'm working on 👨‍💻
 
-You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucasbuchele) <br>
+:purple_heart: You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucasbuchele) <br>
+:movie_camera: and soon you will also be able to follow my content on [YouTube](https://www.twitch.tv/lucasbuchele) <br>
 
 ### Find me elsewhere 🌎
 
