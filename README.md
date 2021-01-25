@@ -1,7 +1,8 @@
 ### Hey, I'm Lucas Büchele! 👋
 
-I'm 23 years old, student in software development focused on web development and web design.
 
+:small_blue_diamond: I'm 23 yo <br>
+:computer: Front-end Developer | Web Designer <br>
 🇧🇷  Born in Florianópolis, Brazil <br>
 
 ### What I'm working on 👨‍💻
