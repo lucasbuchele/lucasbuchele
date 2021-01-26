@@ -5,10 +5,9 @@
 :computer: Front-end Developer | Web Designer | Vue.js :green_heart: <br>
 :small_orange_diamond: Born in Florianópolis, Brazil <br>
 
-### What I'm working on 👨‍💻
 
 :purple_heart: You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucasbuchele) <br>
-:movie_camera: and soon you will also be able to follow my content on [YouTube](https://www.twitch.tv/lucasbuchele) <br>
+<!-- :movie_camera: and soon you will also be able to follow my content on [YouTube](https://www.twitch.tv/lucasbuchele) <br> -->
 
 ### Find me elsewhere 🌎
 
