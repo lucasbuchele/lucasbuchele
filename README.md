@@ -7,7 +7,7 @@
 
 
 :purple_heart: You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucasbuchele) <br>
-<!-- :movie_camera: and soon you will also be able to follow [YouTube](https://www.twitch.tv/lucasbuchele) <br> -->
+:movie_camera: and soon you will also be able to follow [YouTube](https://www.youtube.com/lucasbuchele) <br>
 
 ### Find me elsewhere 🌎
 
